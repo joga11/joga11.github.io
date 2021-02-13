@@ -1,11 +1,11 @@
 name: joga11
-title: Morris documentation test
+title: my docs
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: joga11/just-the-docs
 
 color_scheme: dark
 
-# logo: "/assets/images/Morris_badge.png"
+# logo: "/assets/images/bimatrix-code.jpg"
 
 aux_links:
   "Source repository on GitHub":
