@@ -4,6 +4,7 @@ How to use Markdown?
 
 # Example for normal text
 This is a simple line. This is another simple line.
+There is another line - enjoy:-)
 
 # Example for title
 Title
