@@ -2,11 +2,11 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Driver's Handbook for the Morris Mini Minor"
+description: "My Docs"
 permalink: /
 ---
 
-![Morris Badge](/assets/images/Morris_badge.png)
+![image](/assets/images/bitmatrix-code.jpg)
 
 # Introduction
 
