@@ -8,7 +8,7 @@ nav_order: 3
 
 For easy creation of diagrams, graphics, etc. you can use app.diagrams.net (formely draw.io), a very useful tool.
 
-1. Go to https://app.diagrams.net/
+1. Go to [https://app.diagrams.net/](https://app.diagrams.net/)
 2. Select the location where the diagrams should be saved: Google Drive, Device, GitHab, etc.
 3. Next, select **Create New Diagram**.
 4. In the next window, type the filename in **.svg** format, select the template you need and click **Create**.

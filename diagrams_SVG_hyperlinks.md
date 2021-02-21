@@ -14,7 +14,7 @@ Using app.diagrams.net, you can also create diagrams with SVG hyperlinks.
 5. Then, select a rectangle and enlarge it.
 6. Add another layer and assign the rectangle as background shape layer.
 7. Save the file and open it in Visual Studio Code.
-8. Check the code and add a link (e.g. <a href="https://www.w3schools.com/"> Visit W3Schools.com! </a>) in the required location.
+8. Check the code and add a link (e.g. [https://www.w3schools.com/](https://www.w3schools.com/) ) in the required location.
 9. Save the file, the link should be active.
 
 [See the diagram with SVG hyperlinks](./image_with_links.svg)

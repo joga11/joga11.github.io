@@ -7,7 +7,8 @@ permalink: /
 ---
 
 # Introduction
-Hi, this is my the first published website. Here you can find information about basic tools for creating technical documentation:
+Hi,  
+This is my the first published website. Here you can find information about basic tools for creating technical documentation:
 * Markdown
 * Visual Studio Code
 * app.diagrams.net (formely draw.io)

@@ -13,8 +13,8 @@ nav_order: 4
 
 
 # How to work with GitHub?
-1. Create a GitHub account at https://github.com/join
-2. Install GitHub Desktop from the site https://desktop.github.com/
+1. Create a GitHub account at [https://github.com/join](https://github.com/join)
+2. Install GitHub Desktop from the site [https://desktop.github.com/](https://desktop.github.com/)
 3. Verify and confirm your GitHub account and GitHub Desktop Client.
 4. Create a local git repository.
 5. Add a new file to the repo.
