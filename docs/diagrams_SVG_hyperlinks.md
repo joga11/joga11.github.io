@@ -1,3 +1,9 @@
+---
+layout: default
+title: Diagrams with SVG hyperlinks
+nav_exclude: true
+---
+
 # How to create diagrams with SVG hyperlinks?
 
 Using app.diagrams.net, you can also create diagrams with SVG hyperlinks.

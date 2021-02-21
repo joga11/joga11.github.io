@@ -1,3 +1,9 @@
+---
+layout: default
+title: Markdown
+nav_exclude: true
+---
+
 # How to install Visual Studio Code?
 
 **Visual Studio Code** is a lightweight but powerful source code editor which runs on Windows, macOS and Linux.

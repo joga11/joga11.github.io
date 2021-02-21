@@ -1,3 +1,9 @@
+---
+layout: default
+title: Diagrams with screenshots
+nav_exclude: true
+---
+
 # How to use screenshots in app.diagrams.net?
 
 Using app.diagrams.net, you can also work with screenshots.

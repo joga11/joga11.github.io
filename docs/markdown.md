@@ -1,3 +1,9 @@
+---
+layout: default
+title: Markdown
+nav_exclude: true
+---
+
 How to use Markdown?
 ====================
 **Markdown** is a plain text format for writing structured documents. It is based on a specific markup syntax which is directly rendered to HTML. Its main focus is on making readable documents as possible.

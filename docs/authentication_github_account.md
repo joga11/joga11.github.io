@@ -1,3 +1,9 @@
+---
+layout: default
+title: Authentication of GitHub account
+nav_exclude: true
+---
+
 # How to authenticate the GitHub account and connect it to the GitHub Desktop Client?
 
 1. In **File** menu select and click **Options**
@@ -7,4 +13,4 @@
 5. Type your credentials to your GitHub account and click **Sign in**.
 6. If any problems, see https://docs.github.com/en/desktop
 
-[Back](./General.md)
+[Back](./index.md)

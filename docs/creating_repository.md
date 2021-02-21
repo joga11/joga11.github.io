@@ -1,3 +1,9 @@
+---
+layout: default
+title: Creating repository
+nav_exclude: true
+---
+
 # How to add a new repository from a local computer to GitHub Desktop?
 
 1. In the upper-right corner of the page, use the drop-down menu marked as **+** and select **New repository**.
@@ -7,4 +13,4 @@
 5. Click **Initialize this repository with a README**.
 6. Click **Create repository**.
 
-[Back](./General.md)
+[Back](./index.md)

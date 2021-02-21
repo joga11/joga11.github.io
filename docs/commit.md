@@ -1,3 +1,9 @@
+---
+layout: default
+title: Commit
+nav_exclude: true
+---
+
 # How to commit changes?
 
 The new repository has been created with a **README** file. README file contains project details, or some documentation such as how to install or use the project. 
@@ -9,4 +15,4 @@ The new repository has been created with a **README** file. README file contains
 5. At the bottom of the page, type a short commit message on the change you made to the file.
 6. Click **Commit changes**.
 
-[Back](./General.md)
+[Back](./index.md)
