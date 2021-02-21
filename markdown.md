@@ -98,10 +98,10 @@ z=x+y;
 2. Item 2
 
 # Example for tables
-| header 1    | header 2    |
-| ----------- | ----------- |
-| item 1      | item 2      |
-| something 1 | something 2 |
+| header 1     | header 2     |
+|: ----------- |: ----------- |
+| item 1       | item 2       |
+| something 1  | something 2  |
 
 # Example for linking to another file
 
