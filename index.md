@@ -15,4 +15,6 @@ This is my the first published website. Here you can find information about basi
 * Git, GitHub & GitHub Desktop Client
 
 
-**Make yourself comfortable and enjoy!**
+**Make yourself comfortable and enjoy!**  
+
+![Coffe](./coffe.gif)
