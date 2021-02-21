@@ -106,7 +106,7 @@ z=x+y;
 # Example for linking to another file
 
 
-[Additional content](/assets/pdfs/markdown-cheatsheet.pdf)
+[Additional content](./assets/pdfs/markdown-cheatsheet.pdf)
 
 
 [Back](./visual_studio_code_and_md.md)
