@@ -1,7 +1,7 @@
 ---
 layout: default
-title: VSC and MD
-nav_order: 1
+title: Visual Studio Code and Markdown
+nav_order: 2
 ---
 
 # Why do I need Visual Studio Code and Markdown?
