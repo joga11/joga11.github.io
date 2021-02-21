@@ -41,7 +41,7 @@ Either the well was very deep, or she fell very slowly, for she had plenty of ti
 
 # Example of another paragraph
 Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next.  
-First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs.
+First, she tried to look down and make out what she was coming to, but it was too dark to see anything. Then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs.
 
 # Example for Bold
 **This is bold text**
