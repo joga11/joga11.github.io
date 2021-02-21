@@ -12,7 +12,11 @@ nav_exclude: true
 2. Click the installation file and install **Visual Studio Code**
 3. Open a new file in **Visual Studio Code**
 4. Save the file as .md format: File > Save As
-5. Then, instal **Markdown All In One** extension: View > Extensions > Markdown All In One > Install.  The extension makes work easier, e.g. completes tables to readable form, improves the table of contents
+5. Then, install the following **extensions**:  
+   * **Markdown All In One**: View > Extensions > Markdown All In One > Install.  The extension makes work easier, e.g. completes tables to readable form, improves the table of contents
+   * **SVG**: View > Extensions > SVG > Install. A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG
+   * **XML Tools**: View > Extensions > XML Tools > Install. The set of the tools enables the XML Tree View for XML documents; it enables attribute and child element counts in the XML Document view; it enables auto-reveal of elements in the XML Document view when a start tag is clicked in the editor, and more.
+   * **SpellChecker**: View > Extensions > SVG > Install. This extension is a spell checker that uses a local dictionary for offline usage. hunspell-spellchecker is used to load hunspell formatted dictionaries. Errors are highlighted, and hovering over them will show possible suggestions.
 
 # How to work in Visual Studio Code?
 * **Commands**: Windows Shift+Ctrl+p / Mac Cmd+p, in > bar
