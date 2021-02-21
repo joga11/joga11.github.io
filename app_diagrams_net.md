@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VSC and MD
+title: app.diagrams.net
 nav_order: 2
 ---
 

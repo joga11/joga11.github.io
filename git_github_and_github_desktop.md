@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Car Body
+title: Git, GitHub and GitHub Desktop
 nav_order: 3
 ---
 
