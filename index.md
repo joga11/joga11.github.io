@@ -17,4 +17,4 @@ This is my the first published website. Here you can find information about basi
 
 **Make yourself comfortable and enjoy!**  
 
-![Coffe](./coffe.gif)
+![Coffee](./coffee.gif)
