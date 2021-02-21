@@ -111,4 +111,4 @@ z=x+y;
 
 [Additional content](/assets/pdfs/markdown-cheatsheet.pdf)
 
-[Back](./visual_studio_code_and_md.md) 
+[Back](./visual_studio_code_and_md.md)  
