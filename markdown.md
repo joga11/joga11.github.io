@@ -98,12 +98,12 @@ z=x+y;
 2. Item 2
 
 # Example for tables
-| head1        | head2             | head3 |
+| head1        | head two          | three |
 |:-------------|:------------------|:------|
-| coffee       | vanilla           | ok    |
-| tea          | green             | ok    |
-| water        | with mint leaves  | ok    |
-| water        | without mint      | ok    |
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 # Example for linking to another file
 
