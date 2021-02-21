@@ -98,6 +98,7 @@ z=x+y;
 2. Item 2
 
 # Example for tables
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
@@ -105,10 +106,9 @@ z=x+y;
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+
 # Example for linking to another file
 
-
 [Additional content](/assets/pdfs/markdown-cheatsheet.pdf)
-
 
 [Back](./visual_studio_code_and_md.md)
