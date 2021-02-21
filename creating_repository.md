@@ -13,4 +13,4 @@ nav_exclude: true
 5. Click **Initialize this repository with a README**.
 6. Click **Create repository**.
 
-[Back](./index.md)
+[Back](./git_github_and_github_desktop.md)

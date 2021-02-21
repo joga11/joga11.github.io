@@ -104,6 +104,6 @@ z=x+y;
 | something 1 | something 2 |
 
 # Example for linking to another file
-[Additional content](./General.md)
+[Additional content](./visual_studio_code_and_md.md)
 
-[Back](./General.md)
+[Back](./visual_studio_code_and_md.md)

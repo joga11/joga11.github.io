@@ -25,4 +25,4 @@ nav_exclude: true
 * **Generate the table of contents**: Shift-Ctrl-P > Create Table of Contents
 * **Formatting a document**: Shift-Ctrl-P > Format Document
 
-[Back](./General.md)
+[Back](./visual_studio_code_and_md.md)

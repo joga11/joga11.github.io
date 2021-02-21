@@ -11,4 +11,4 @@ nav_exclude: true
 3. In Downloads folder in your computer, double-click the **GitHub Desktop Setup** file.
 4. GitHub Desktop will launch after installation is complete.
 
-[Back](./index.md)
+[Back](./git_github_and_github_desktop.md)

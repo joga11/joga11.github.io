@@ -13,4 +13,4 @@ nav_exclude: true
 5. Type your credentials to your GitHub account and click **Sign in**.
 6. If any problems, see https://docs.github.com/en/desktop
 
-[Back](./index.md)
+[Back](./git_github_and_github_desktop.md)

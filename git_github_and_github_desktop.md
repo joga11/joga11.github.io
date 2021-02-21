@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Git, GitHub and GitHub Desktop
-nav_order: 3
+nav_order: 4
 ---
-
-
-
 
 # What is Git, GitHub and GitHub Desktop Client?
 **Git** is a distributed version control system. Version control is also known as source code management (SCM). Version control systems are designed to record changes made to code. They track when, and by whom the changes were made, and usually allow you to add some explanation. They allow to go back to an old version of the code, or of just some files.  

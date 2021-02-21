@@ -15,4 +15,4 @@ Using app.diagrams.net, you can also work with screenshots.
 
 [See the diagram with the screenshot](test_screenshoot.svg)
 
-[Back](./General.md)
+[Back](./app_diagrams_net.md)

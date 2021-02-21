@@ -1,7 +1,7 @@
 ---
 layout: default
 title: app.diagrams.net
-nav_order: 2
+nav_order: 3
 ---
 
 # How to create diagrams in app.diagrams.net?
@@ -20,10 +20,10 @@ For easy creation of diagrams, graphics, etc. you can use app.diagrams.net (form
 **VSC** shows the code created while drawing the graphics. 
 The code can be changed using **VSC**. You may need to install **SVG** extension to preview **.svg** files.  
 
-[See the diagram graphics](little_diagram.svg)
+[See the diagram graphics](./little_diagram.svg)
 
 Using app.diagrams.net, you can also work with screenshots.  
-[See for details](diagram_with_screenshot.md)
+[See for details](./diagram_with_screenshot.md)
 
 Using app.diagrams.net, you can also create diagrams with SVG hyperlinks.  
-[See for details](diagrams_SVG_hyperlinks.md)
+[See for details](./diagrams_SVG_hyperlinks.md)

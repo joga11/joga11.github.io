@@ -19,4 +19,4 @@ Using app.diagrams.net, you can also create diagrams with SVG hyperlinks.
 
 [See the diagram with SVG hyperlinks](./image_with_links.svg)
 
-[Back](./General.md)
+[Back](./app_diagrams_net.md)

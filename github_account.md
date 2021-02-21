@@ -10,4 +10,4 @@ nav_exclude: true
 2. Type a user name, your email address, and a password.
 3. Choose **Sign up for GitHub**, and then follow the instructions.
 
-[Back](./index.md)
+[Back](./git_github_and_github_desktop.md)
