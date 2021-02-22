@@ -7,8 +7,18 @@ nav_exclude: true
 # How to create a new repository?
 
 There are two ways to create a new repository:
-* Use GitHub directly, or
-* Use GitHub Desktop
+* Use GitHub Desktop, or
+* Use GitHub directly
+
+# How to create a new repository using GitHub Desktop?
+
+1. Click Create a New Repository on your Hard Drive....  
+![Alternative text when image is not available](./create_repo_5.png)
+
+2. Fill in the fields and select your preferred options.  
+![Alternative text when image is not available](./create_repo_6.png)
+
+3. Click Create repository.
 
 # How to create a new repository using GitHub directly?
 
@@ -27,15 +37,7 @@ There are two ways to create a new repository:
 6. Click **Create repository**.  
 ![Alternative text when image is not available](./create_repo_4_button.png)
 
-# How to create a new repository using GitHub Desktop?
 
-1. Click Create a New Repository on your Hard Drive....  
-![Alternative text when image is not available](./create_repo_5.png)
-
-2. Fill in the fields and select your preferred options.  
-![Alternative text when image is not available](./create_repo_6.png)
-
-3. Click Create repository.
 
 
 

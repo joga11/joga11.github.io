@@ -4,7 +4,7 @@ title: Authentication of GitHub account
 nav_exclude: true
 ---
 
-# How to authorize the GitHub account and connect it to the GitHub Desktop Client?
+# How to authorize the GitHub account and connect it to GitHub Desktop Client?
 
 1. In **File** menu select and click **Options**
 2. In **Options** window, select **Accounts**.
