@@ -26,7 +26,7 @@ nav_order: 4
 For more information, see:  
 [How to create GitHub account?](./github_account.md)  
 [How to install GitHub Desktop Client?](./github_desktop_client.md/)  
-[How to authenticate the GitHub account and connect it to the GitHub Desktop Client?](./authentication_github_account.md)  
-[How to add a new repository from a local computer to GitHub Desktop?](./creating_repository.md)  
+[How to authorize the GitHub account and connect it to the GitHub Desktop Client?](./authentication_github_account.md)  
+[How to create a new repository?](./creating_repository.md)  
 [How to commit changes?](./commit.md)  
 Or visit [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
