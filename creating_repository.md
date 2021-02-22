@@ -10,8 +10,9 @@ There're two ways to create a new repository:
 * Use GitHub Desktop, or
 * Use GitHub directly
 
-[How to create a new repository using GitHub Desktop](#how-to-create-a-new-repository-using-GitHub-Desktop)  
-[How to create a new repository using GitHub directly?](#how-to-create-a-new-repository-using-GitHub-directly?)  
+
+   [How to create a new repository using GitHub Desktop?](#how-to-create-a-new-repository-using-github-desktop)  
+   [How to create a new repository using GitHub directly?](#how-to-create-a-new-repository-using-github-directly)
 
 
 ## How to create a new repository using GitHub Desktop?
