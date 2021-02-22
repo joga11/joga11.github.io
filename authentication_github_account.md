@@ -9,7 +9,7 @@ nav_exclude: true
 1. In **File** menu select and click **Options**
 2. In **Options** window, select **Accounts**.
 3. Click **Sign in** on the right of **GitHubcom**.
-![Alternative text when image is not available](./github_account_auth_.png)
+![Image](./github_account_auth_.png "github_account_auth")
 
 4. In **Sign in** pane, click **Sign in using your browser**.
 5. Type your credentials to your GitHub account and click **Sign in**.

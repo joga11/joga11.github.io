@@ -14,14 +14,14 @@ nav_order: 4
 
 # How to work with GitHub?
 1. Create a GitHub account at [https://github.com/join](https://github.com/join)
-2. Install GitHub Desktop from the site [https://desktop.github.com/](https://desktop.github.com/)
-3. Verify and confirm your GitHub account and GitHub Desktop Client.
+2. Install **GitHub Desktop** from the site [https://desktop.github.com/](https://desktop.github.com/)
+3. Verify and confirm your GitHub account and **GitHub Desktop Client**.
 4. Create a local git repository.
 5. Add a new file to the repo.
 6. Make changes to your repo (for example, adding a file or modifying one).
 7. Create a commit.
-8. Push the repo to GitHub.
-9. Invite collaborators: Setings > Your repo > Settings > Manage access > Invite a collaborator
+8. Push the repo to GitHub
+9. Invite collaborators: **Setings** > **Your repo** > **Settings** > **Manage access** > **Invite a collaborator**
 
 For more information, see:  
 [How to create GitHub account?](./github_account.md)  

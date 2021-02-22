@@ -13,6 +13,7 @@ This is a simple line. This is another simple line.
 There is another line - enjoy:-)
 
 # Example for title
+
 Title
 =====
 
@@ -54,7 +55,7 @@ First, she tried to look down and make out what she was coming to, but it was to
 [This is a link](https://daringfireball.net/projects/markdown/)
 
 # Example for images
-![Alternative text when image is not available](./bimatrix-code.jpg)
+![Image](./bimatrix-code.jpg "bimatrix-code")
 
 # Example for headers
 # Header 1

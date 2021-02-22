@@ -8,13 +8,13 @@ permalink: /
 
 # Introduction
 Hi,  
-This is my the first published website. Here you can find information about basic tools for creating technical documentation:
+This is my the first published website. Here you can find some information about basic tools for creating technical documentation:
 * Markdown
 * Visual Studio Code
-* app.diagrams.net (formely draw.io)
+* [app.diagrams.net](https://app.diagrams.net/) (formely draw.io)
 * Git, GitHub & GitHub Desktop Client
 
 
 **Make yourself comfortable and enjoy!**  
 
-![Coffee](./coffee.gif)
+![Coffee](./coffee.gif "Coffee")
