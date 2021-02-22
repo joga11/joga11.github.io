@@ -11,9 +11,14 @@ You can also clone repository from GitHub to GitHub Desktop (remote repositories
 By **cloning** a repository, you can create a local copy of any repository on GitHub that you have access to.  
 If the repo is cloned, any changes you push to GitHub will affect the original repository. So, to make changes without affecting the original project, you can create a separate copy by **forking** the repository. A fork is a copy of a repository that you manage.
 
-[How to clone repositories from GitHub Desktop?](#how-to-clone-repositories-from-GitHub-Desktop?)  
-[How to fork repositories from GitHub Desktop?](#how-to-fork-repositories-from-GitHub-Desktop?)  
-[How to clone repositories from GitHub to GitHub Desktop?](#how-to-clone-repositories-from-GitHub-to-GitHub-Desktop?)
+[How to clone repositories from GitHub Desktop?](##how-to-clone-repositories-from-GitHub-Desktop?)  
+[How to fork repositories from GitHub Desktop?](##how-to-fork-repositories-from-GitHub-Desktop?)  
+[How to clone repositories from GitHub to GitHub Desktop?](##how-to-clone-repositories-from GitHub-to-GitHub-Desktop?)  
+
+
+[How to clone repositories from GitHub Desktop?](##how-to-clone-repositories-from-GitHub-Desktop?)  
+[How to fork repositories from GitHub Desktop?](##how-to-fork-repositories-from-GitHub-Desktop?)  
+[How to clone repositories from GitHub to GitHub Desktop?](##how-to-clone-repositories-from-GitHub-to-GitHub-Desktop?)
 
 ## How to clone repositories from GitHub Desktop?
 
