@@ -28,5 +28,9 @@ For more information, see:
 [How to install GitHub Desktop Client?](./github_desktop_client.md/)  
 [How to authorize the GitHub account and connect it to the GitHub Desktop Client?](./authentication_github_account.md)  
 [How to create a new repository?](./creating_repository.md)  
+[How to clone and fork repositories?](./clone_and_fork_repo.md)  
 [How to commit changes?](./commit.md)  
+[How to managing branches?](./managing_branches.md)  
+
 Or visit [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
+
