@@ -6,7 +6,7 @@ nav_exclude: true
 
 How to use Markdown?
 ====================
-**Markdown** is a plain text format for writing structured documents. It is based on a specific markup syntax which is directly rendered to HTML. Its main focus is on making readable documents as possible.
+**Markdown** is a plain text format for writing structured documents. It's based on a specific markup syntax that is directly rendered to HTML. Its main focus is on making text as readable as possible.
 
 # Example for normal text
 This is a simple line. This is another simple line.

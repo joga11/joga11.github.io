@@ -11,7 +11,7 @@ Hi,
 This is my the first published website. Here you can find some information about basic tools for creating technical documentation:
 * Markdown
 * Visual Studio Code
-* [app.diagrams.net](https://app.diagrams.net/) (formely draw.io)
+* [app.diagrams.net](https://app.diagrams.net/) (formerly draw.io)
 * Git, GitHub & GitHub Desktop Client
 
 

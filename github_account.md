@@ -4,7 +4,7 @@ title: Create GitHub account
 nav_exclude: true
 ---
 
-# How to create GitHub account?
+# How to create a GitHub account?
 
 1. Go to [https://github.com/join](https://github.com/join) in a web browser. In the upper right corner click on Sign up.
 ![Image](./github_sign_up_1.png "github_sign_up")

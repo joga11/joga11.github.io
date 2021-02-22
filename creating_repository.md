@@ -6,7 +6,7 @@ nav_exclude: true
 
 # How to create a new repository?
 
-There are two ways to create a new repository:
+There're two ways to create a new repository:
 * Use GitHub Desktop, or
 * Use GitHub directly
 
@@ -29,9 +29,9 @@ There are two ways to create a new repository:
 3. You can also add a description of your repository.  
 ![Image](./create_repo_2_name.png "create_repo")
 
-4. Choose a repository visibility: **Public**, **Internal**, **Private**.  
+1. Choose repository visibility: **Public**, **Internal**, **Private**.  
 
-5. Click **Initialize this repository with a README**.  
+2. Click **Initialize this repository with a README**.  
 ![Image](./create_repo_3_public_private_readme.png "create_repo")
 
 6. Click **Create repository**.  

@@ -7,9 +7,9 @@ nav_order: 4
 # What is Git, GitHub and GitHub Desktop Client?
 **Git** is a distributed version control system. Version control is also known as source code management (SCM). Version control systems are designed to record changes made to code. They track when, and by whom the changes were made, and usually allow you to add some explanation. They allow to go back to an old version of the code, or of just some files.  
 
-**GitHub** is a Git repository hosting service. GitHub also facilitates with many of its features, such as access control and collaboration. It provides a Web-based graphical interface.  
+**GitHub** is a Git repository hosting service. GitHub also facilitates many of its features, such as access control and collaboration. It provides a Web-based graphical interface.  
 
-**GitHub Desktop Client** is an application to manage the content on the GitHub server from local PC.
+**GitHub Desktop Client** is an application to manage the content on the GitHub server from the local PC.
 
 
 # How to work with GitHub?
@@ -24,7 +24,7 @@ nav_order: 4
 9. Invite collaborators: **Setings** > **Your repo** > **Settings** > **Manage access** > **Invite a collaborator**
 
 For more information, see:  
-[How to create GitHub account?](./github_account.md)  
+[How to create a GitHub account?](./github_account.md)  
 [How to install GitHub Desktop Client?](./github_desktop_client.md/)  
 [How to authorize the GitHub account and connect it to the GitHub Desktop Client?](./authentication_github_account.md)  
 [How to create a new repository?](./creating_repository.md)  
