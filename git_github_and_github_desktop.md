@@ -4,6 +4,10 @@ title: Git, GitHub and GitHub Desktop
 nav_order: 4
 ---
 
+ [What is Git, GitHub and GitHub Desktop Client?](#what-is-git-github-and-github-desktop-client)  
+ [How to work with GitHub?](#how-to-work-with-github)
+
+
 # What is Git, GitHub and GitHub Desktop Client?
 **Git** is a distributed version control system. Version control is also known as source code management (SCM). Version control systems are designed to record changes made to code. They track when, and by whom the changes were made, and usually allow you to add some explanation. They allow to go back to an old version of the code, or of just some files.  
 
@@ -31,18 +35,6 @@ For more information, see:
 [How to clone and fork repositories?](./clone_and_fork_repo.md)  
 [How to commit changes?](./commit.md)  
 [How to managing branches?](./managing_branches.md)  
+[How to create a GitHub Pages site?](./github_pages.md)
 
 Or visit [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
-
-
-
-# How to create a GitHub Pages site?
-GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub and publishes a website. GitHub Pages publishes any static files that you push to your repository. You can create your own static files or use a static site generator, e.g. **Jekyll**. It takes Markdown and HTML files and creates a complete static website. Jekyll supports Markdown and Liquid, a templating language that loads dynamic content on the site.
-
-1. Create a new repository.
-2. Name the new repository according to the scheme  
-   username.github.io.
-3. Set visibility to **Public**.
-4. Click **Add a README file** checkbox, if you wish.
-5. Click on **Create repository**.
-6. and add the index.md file to the repository
