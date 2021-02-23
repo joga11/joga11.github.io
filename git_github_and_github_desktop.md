@@ -34,3 +34,15 @@ For more information, see:
 
 Or visit [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
 
+
+
+# How to create a GitHub Pages site?
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub and publishes a website. GitHub Pages publishes any static files that you push to your repository. You can create your own static files or use a static site generator, e.g. **Jekyll**. It takes Markdown and HTML files and creates a complete static website. Jekyll supports Markdown and Liquid, a templating language that loads dynamic content on the site.
+
+1. Create a new repository.
+2. Name the new repository according to the scheme  
+   username.github.io.
+3. Set visibility to **Public**.
+4. Click **Add a README file** checkbox, if you wish.
+5. Click on **Create repository**.
+6. and add the index.md file to the repository
